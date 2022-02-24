@@ -1,9 +1,14 @@
 # PHP Developer roadmap
+** quirky disclaimer this is the modified version of thecodeholic road map **
+** inorder to make you best frontend web dev to backend then fullstack web dev
+   based on the frameworks score based on stackoverflow  **
+
+
+
+
 This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
 The repository is created when working on the following YouTube video [PHP Developer roadmap - How to Become a PHP Developer in 2021](https://youtu.be/r9ndOH0tyfA).
 
-** quirky disclaimer this is the modified version of thecodeholic road map **
-** You Can directly jump to the HTML AND CSS part  **
 
 [<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png" width="300">](https://bit.ly/2xTQOI0)
 
