@@ -3,7 +3,7 @@
 ** in order to make you best frontend web dev to backend then fullstack web dev **
 ** based on the current frameworks score  on stackoverflow  and other serveys**
 
-//////////////////////////  ~~~~~ always remember to start from basics in that you way can build the big  ~~~~~   \\\\\\\\\\\\\\\\\\\\\\\\\\
+//////////////////////////  ~~~~~ always remember to start from basics in that way you can build the big  ~~~~~   \\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
 This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
