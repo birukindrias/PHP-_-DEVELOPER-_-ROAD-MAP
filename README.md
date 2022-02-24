@@ -1,7 +1,7 @@
 # PHP Developer roadmap
-** quirky disclaimer this is the modified version of thecodeholic road map **
-** inorder to make you best frontend web dev to backend then fullstack web dev
-   based on the frameworks score based on stackoverflow  **
+** quirky disclaimer this is the modified version of thecodeholic php web dev roadmap **
+** inorder to make you best frontend web dev to backend then fullstack web dev **
+** based on the current frameworks score  on stackoverflow  and other serveys**
 
 
 
