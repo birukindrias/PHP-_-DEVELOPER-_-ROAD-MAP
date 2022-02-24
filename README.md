@@ -3,7 +3,7 @@
 ** in order to make you best frontend web dev to backend then fullstack web dev **
 ** based on the current frameworks score  on stackoverflow  and other serveys**
 
-
+//////////////////////////  ~~~~~ always remember to start from basics in that way can build the bigs  ~~~~~   \\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
 This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
@@ -84,8 +84,10 @@ scss with tailwindcss based on the current trende  ***
 ### Basics of JavaScript Frameworks
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
-| Vue Crash Course                                           | 1h 50m | https://www.youtube.com/watch?v=0xt_Jv-P_Vo&t=133s |
+| Vue3 Crash Course for starting                                         | 2h 57m | https://www.youtube.com/watch?v=ZqgiuPt5QZo&t=4s |
+| Vue3 Crash Course                                           | N/A | https://www.youtube.com/watch?v=DPBXxrhJIv4&t=25s |
 | Vue3 Crash Course                                          | 2h 57m | https://www.youtube.com/watch?v=vsJtN54aA7w |
+| Vue3 full 5 projects                                       | N/A  |  https://www.youtube.com/watch?v=DPBXxrhJIv4&t=25s|
 | u can left react since vue can go with everthing React Crash Course                                         | 1h 48m | https://youtu.be/w7ejDZ8SWv8 |
 
 ### Introduction to Databases
