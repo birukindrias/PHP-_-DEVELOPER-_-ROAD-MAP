@@ -1,6 +1,6 @@
 # PHP Developer roadmap
 ** quirky disclaimer this is the modified version of thecodeholic php web dev roadmap **
-** inorder to make you best frontend web dev to backend then fullstack web dev **
+** in order to make you best frontend web dev to backend then fullstack web dev **
 ** based on the current frameworks score  on stackoverflow  and other serveys**
 
 
@@ -53,8 +53,9 @@ The repository is created when working on the following YouTube video [PHP Devel
 
 ###### FRONTEND_-_ 
 
-*** you can skipp angular and react since vue is on the top if you want take react to also you can replace scss with tailwindcss based on the current trende  ***
-<img src="https://updivision.com/storage/uploads/elfinder/Blog%20images/front-end%20(2).png" width="400">
+*** you can skipp angular and react since vue is on the top if you want take react too also you can replace 
+scss with tailwindcss based on the current trende  ***
+<img src="https://updivision.com/storage/uploads/elfinder/Blog%20images/front-end%20(2).png" width="700">
 
 ######
 ### Basics of HTML/CSS
