@@ -51,6 +51,12 @@ The repository is created when working on the following YouTube video [PHP Devel
 | MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
 | Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
+###### FRONTEND_-_ 
+
+*** you can skipp angular and react since vue is on the top if you want take react to also you can replace scss with tailwindcss based on the current trende  ***
+<img src="https://updivision.com/storage/uploads/elfinder/Blog%20images/front-end%20(2).png" width="400">
+
+######
 ### Basics of HTML/CSS
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
@@ -59,6 +65,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 | HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
+
 
 ### Basics of JavaScript
 | Resource Name                                          |Duration| Resource                     |
